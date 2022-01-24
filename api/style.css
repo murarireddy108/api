@@ -1,0 +1,19 @@
+body {
+  font-family: "Yatra One", cursive;
+}
+.logo {
+  width: 50%;
+}
+
+.showcase {
+  max-width: 50%;
+  max-height: 300px;
+  padding: 5px;
+}
+.generate_btn {
+  transition: all 0.2s;
+  box-shadow: 10px 1px 5px -12px rgba(86, 185, 255, 0.75);
+}
+.generate_btn:hover {
+  transform: translateY(-3px);
+}
